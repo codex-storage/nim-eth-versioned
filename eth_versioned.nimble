@@ -7,4 +7,4 @@ description = "Ethereum Common library"
 license = "MIT"
 
 requires "nim >= 1.6.0"
-requires "eth#c482b4c5b658a77cc96b49d4a397aa6d98472ac7"
+requires "eth >= 0.5.0"
