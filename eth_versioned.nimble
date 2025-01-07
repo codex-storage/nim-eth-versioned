@@ -6,5 +6,5 @@ author = "Status Research & Development GmbH"
 description = "Ethereum Common library"
 license = "MIT"
 
-requires "nim >= 1.6.0"
+requires "nim >= 2.0.14"
 requires "eth >= 0.5.0"
